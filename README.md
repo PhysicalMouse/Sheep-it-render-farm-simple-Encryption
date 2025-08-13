@@ -6,5 +6,5 @@ This is a plugin for the Sheep it render farm. It generates a node that decrypts
 
 
 
-[manual/2.png](https://github.com/PhysicalMouse/Sheep-it-render-simple-Encryption/blob/main/manual/2.png)
-https://github.com/PhysicalMouse/Sheep-it-render-simple-Encryption/blob/main/manual/3.png
+![manual/2.png](https://github.com/PhysicalMouse/Sheep-it-render-simple-Encryption/blob/main/manual/2.png)
+![manual/3.png](https://github.com/PhysicalMouse/Sheep-it-render-simple-Encryption/blob/main/manual/3.png)
