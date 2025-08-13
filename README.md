@@ -1,7 +1,7 @@
 # Sheep-it-render-simple-Encryption
 A simple Encryption for Sheep it render farm.
 
-This is a plugin for the Sheep it render farm. It generates a node that decrypts and reassembles the split image tiles you receive from the farm. Simply place this node before your final output node to reconstruct the complete image.
+You can encrypt or decrypt the images output by Blender, thereby concealing the thumbnails of sheep-it-render-farm
 
 
 
