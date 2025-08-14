@@ -4,8 +4,8 @@ bl_info = {
     "version": (1, 0),
     "blender": (4, 5, 0),
     "location": "Compositor > Sidebar > PME",
-    "description": "Encrypts/Decrypts an image by slicing and reassembling nodes.",
-    "warning": "Encryption and decryption cannot be used consecutively in a single project.",
+    "description": "Encrypts/Decrypts an image by slicing and reassembling nodes！",
+    "warning": "Encryption and decryption cannot be used consecutively in a single project！",
     "doc_url": "",
     "category": "Compositor",
 }
