@@ -6,6 +6,8 @@ You can encrypt or decrypt the images output by Blender, thereby concealing the 
 
 ![manual/Preview.png](https://github.com/PhysicalMouse/Sheep-it-render-farm-simple-Encryption/blob/main/preview/Preview.png)
 
+![manual/0.png](https://github.com/PhysicalMouse/Sheep-it-render-farm-simple-Encryption/blob/main/manual/0.png)
+
 ![manual/2.png](https://github.com/PhysicalMouse/Sheep-it-render-simple-Encryption/blob/main/manual/2.png)
 
 ![manual/3.png](https://github.com/PhysicalMouse/Sheep-it-render-simple-Encryption/blob/main/manual/3.png)
