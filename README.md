@@ -1,7 +1,7 @@
 # Sheep-it-render-simple-Encryption
 
 Now I have other methods, Use EXR's multi-layer feature to hide your SheepIt render content. Please review this article.
-https://vercel.cfambor.fun/20250903-share-1
+https://blog.physmouse.com/20250903-share-1
 
 
 A simple Encryption for Sheep it render farm.
